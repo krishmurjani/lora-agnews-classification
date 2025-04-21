@@ -84,7 +84,7 @@ jupyter notebook notebooks/model_training.ipynb
 
 ## Confusion Matrix
 
-![Confusion matrix showing model performance](./results/visulization/confusion_matrix.png)
+![Confusion matrix showing model performance](./results/visualizations/confusion_matrix.png)
 
 
 ## Training Metrics/Performance Metrics
