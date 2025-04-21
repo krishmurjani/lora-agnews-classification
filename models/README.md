@@ -45,7 +45,7 @@ prediction = outputs.logits.argmax(dim=1).item()
 ## Performance
 
 The best model achieves the following performance on the validation set:
-- Accuracy: [Insert your accuracy here]
-- F1 Score: [Insert your F1 score here]
-- Precision: [Insert your precision here]
-- Recall: [Insert your recall here]
+- Accuracy: 91.76%
+- F1 Score: 91.76%
+- Precision: 91.77%
+- Recall: 91.74%
